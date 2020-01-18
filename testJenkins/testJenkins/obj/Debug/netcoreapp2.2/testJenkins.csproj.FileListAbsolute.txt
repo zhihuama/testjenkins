@@ -1,0 +1,14 @@
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.csproj.CoreCompileInputs.cache
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.AssemblyInfoInputs.cache
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.AssemblyInfo.cs
+G:\jenkins\testjenkins\testJenkins\testJenkins\bin\Debug\netcoreapp2.2\testJenkins.deps.json
+G:\jenkins\testjenkins\testJenkins\testJenkins\bin\Debug\netcoreapp2.2\testJenkins.runtimeconfig.json
+G:\jenkins\testjenkins\testJenkins\testJenkins\bin\Debug\netcoreapp2.2\testJenkins.runtimeconfig.dev.json
+G:\jenkins\testjenkins\testJenkins\testJenkins\bin\Debug\netcoreapp2.2\testJenkins.dll
+G:\jenkins\testjenkins\testJenkins\testJenkins\bin\Debug\netcoreapp2.2\testJenkins.pdb
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.csprojAssemblyReference.cache
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.RazorAssemblyInfo.cache
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.RazorAssemblyInfo.cs
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.RazorTargetAssemblyInfo.cache
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.dll
+G:\jenkins\testjenkins\testJenkins\testJenkins\obj\Debug\netcoreapp2.2\testJenkins.pdb
